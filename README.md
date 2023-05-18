@@ -1,1 +1,3 @@
-# PokemonPokedex
+# PHP Pokemon Pokedex
+
+- Pokedex Project in which a Pokemon database is manipulated through a web page using PHP, HTML, CSS, JS...
